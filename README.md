@@ -1,4 +1,4 @@
-# restaurant-orders-optimization
+# Forecasting Restaurant Orders
 
 ### Prerequisite packages
 * pandas - 
