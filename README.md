@@ -1,11 +1,11 @@
 # restaurant-orders-optimization
 
 ### Prerequisite packages
-* pandas
+* pandas - 
 `pip3 install pandas`
-* mlxtend
+* mlxtend - 
 `pip3 install DataLoader install mlxtend`
-* unidecode
+* unidecode - 
 `pip3 install unidecode`
-* plotly
+* plotly - 
 `pip3 install plotly` 
